@@ -36,7 +36,7 @@ namespace FirstApp
             titleLbl.Text = "Our first Lesson";
             titleLbl.ForeColor = Color.DeepPink;
 
-            mylabel.Text = "i am second label";
+            mylabel.Text = "i am second label"; 
             mylabel.ForeColor = Color.Red;
             mylabel.Location = new Point(0, 180);
             mylabel.Size = new Size(600, 200);
